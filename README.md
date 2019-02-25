@@ -18,11 +18,12 @@ my experience
   <img src="https://github.com/Lebogang95/Curriculum-Vitae/blob/master/cv.jpg" width="450" height="600" />
 </p>
 
-## Setup Guidlines
-### Android
+## Contact Me
+### Email
 
-No setup is required for the Android project. Just download the apk using the link below and install on your Android device. The minimum Android version supported is Jelly Bean (4.1).
+nkosilebogang95@gmail.com
 
 ### iOS
 
-To run the iOS project you need a Macbook with the latest version of Xcode installed as well as Android Studio. In the future there will be a Test Flight link.
+061 188 0728
+067 008 3283
