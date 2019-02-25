@@ -15,7 +15,7 @@ to further improve my skill and grow
 my experience
 
 <p float="left">
-  <img src="https://github.com/Lebogang95/Curriculum-Vitae/blob/master/cv.jpg" width="450" height="600" />
+  <img src="https://github.com/Lebogang95/Curriculum-Vitae/blob/master/cv.jpg" width="460" height="600" />
 </p>
 
 ## Contact Me
@@ -23,7 +23,7 @@ my experience
 
 nkosilebogang95@gmail.com
 
-### iOS
+### Call
 
 061 188 0728
 067 008 3283
