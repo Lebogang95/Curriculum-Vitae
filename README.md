@@ -3,7 +3,7 @@
 A Flutter application made by Lebogang which demonstrates how to create your own custom Flutter widgets to reuse across your app. This promotes code reusability & a cleaner project with maintable classes. Not only that but it improves on development time. This is due to the fact that you will spend less time creating many instances of the same widget.
 
 <p float="left">
-  <img src="https://github.com/Lebogang95/Curriculum-Vitae/blob/master/cv.jpg" width="510" height="600" />
+  <img src="https://github.com/Lebogang95/Curriculum-Vitae/blob/master/cv.jpg" width="450" height="600" />
 </p>
 
 ## Setup Guidlines
