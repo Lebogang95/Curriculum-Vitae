@@ -25,5 +25,4 @@ nkosilebogang95@gmail.com
 
 ### Call
 
-061 188 0728
 067 008 3283
