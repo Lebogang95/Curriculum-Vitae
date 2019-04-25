@@ -14,12 +14,6 @@ as a mobile applications developer
 to further improve my skill and grow
 my experience
 
-<p float="left">
-  <img src="https://github.com/Lebogang95/Curriculum-Vitae/blob/master/new_cv.pdf" width="460" height="600" />
-</p>
-
-<embed src="https://github.com/Lebogang95/Curriculum-Vitae/blob/master/new_cv.pdf" width="500" height="375" type="application/pdf">
-
 ## Contact Me
 ### Email
 
