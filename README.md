@@ -14,6 +14,8 @@ as a mobile applications developer
 to further improve my skill and grow
 my experience
 
+<a href="/images/myw3schoolsimage.jpg" download>
+  
 ## Contact Me
 ### Email
 
