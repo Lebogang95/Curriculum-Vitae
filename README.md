@@ -24,3 +24,15 @@ nkosilebogang95@gmail.com
 ### Call
 
 067 008 3283
+
+### Download CV
+
+https://github.com/Lebogang95/Curriculum-Vitae/raw/master/lebogang2020.pdf
+
+### Visit Seamless Pay
+
+https://seamlesspay.io
+
+### Visit my personal website
+
+http://lebogangnkosi.co.za
